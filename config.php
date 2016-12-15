@@ -14,6 +14,26 @@ define('HTTP_CATALOG', 'http://localhost/oc/');
 
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/oc/admin/');
+define('HTTPS_CATALOG', 'http://localhost/oc/');define('HTTP_SERVER', 'http://localhost/oc/admin/');
+define('HTTP_CATALOG', 'http://localhost/oc/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/oc/admin/');
+define('HTTPS_CATALOG', 'http://localhost/oc/');define('HTTP_SERVER', 'http://localhost/oc/admin/');
+define('HTTP_CATALOG', 'http://localhost/oc/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/oc/admin/');
+define('HTTPS_CATALOG', 'http://localhost/oc/');define('HTTP_SERVER', 'http://localhost/oc/admin/');
+define('HTTP_CATALOG', 'http://localhost/oc/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/oc/admin/');
+define('HTTPS_CATALOG', 'http://localhost/oc/');define('HTTP_SERVER', 'http://localhost/oc/admin/');
+define('HTTP_CATALOG', 'http://localhost/oc/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://localhost/oc/admin/');
 define('HTTPS_CATALOG', 'http://localhost/oc/');
 
 // DIR
