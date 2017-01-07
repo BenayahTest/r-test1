@@ -1,0 +1,12 @@
+collection name: firstviewserver
+
+records:
+uuid,server_name, username, password => CRUD
+
+Import cameras -> servers list
+
+
+
+
+
+
