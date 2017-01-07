@@ -1,5 +1,6 @@
 <?php
-// Version
+// Version test
+// V2 
 define('VERSION', '2.3.0.2');
 
 // Configuration
