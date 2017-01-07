@@ -1,0 +1,13 @@
+1.Mails are not going to the registered email id of user's after registration and changing the password.(New)
+
+2.Mails are not going to registered email id's if any new user is doing signup.(New)
+
+3.In the Feed page some feeds are displaying but if we scroll down to see other feeds then after few seconds it itself scrolled up and showing starting feeds, all the feeds are not displaying.(New)
+
+4.In the Floorplans tab left side list of floorplans are given from which if we are clicking on any floorplan then the map for that clicked ploorplan is started opening while opening if we click on any camera before the map is completely opened then map is stopped opening and become invisible.Please check the screen short for refrence.(New)
+
+
+
+https://demo.vizsafe.com/j_security_check?j_username=dHVuYWZpc2g=&j_password=YmVuYXlhaA==&isSecure=true&j_uri=/api/cameras?format=json&token1=73400863841&token=ec0104c235540c257c56061610d720e689ab9729ea6fa474a6bf34bffe33ed37
+
+
